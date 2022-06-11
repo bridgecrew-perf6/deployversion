@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/deployversion/static/css/main.5be19874.chunk.css",
-    "main.js": "/deployversion/static/js/main.a50aa742.chunk.js",
-    "main.js.map": "/deployversion/static/js/main.a50aa742.chunk.js.map",
-    "runtime-main.js": "/deployversion/static/js/runtime-main.a0edb73e.js",
-    "runtime-main.js.map": "/deployversion/static/js/runtime-main.a0edb73e.js.map",
-    "static/js/2.27505fc1.chunk.js": "/deployversion/static/js/2.27505fc1.chunk.js",
-    "static/js/2.27505fc1.chunk.js.map": "/deployversion/static/js/2.27505fc1.chunk.js.map",
+    "main.js": "/deployversion/static/js/main.6c440b0b.chunk.js",
+    "main.js.map": "/deployversion/static/js/main.6c440b0b.chunk.js.map",
+    "runtime-main.js": "/deployversion/static/js/runtime-main.5aaefd98.js",
+    "runtime-main.js.map": "/deployversion/static/js/runtime-main.5aaefd98.js.map",
+    "static/js/2.baace475.chunk.js": "/deployversion/static/js/2.baace475.chunk.js",
+    "static/js/2.baace475.chunk.js.map": "/deployversion/static/js/2.baace475.chunk.js.map",
     "index.html": "/deployversion/index.html",
-    "precache-manifest.5360545e6399e794a18b8760c3e02212.js": "/deployversion/precache-manifest.5360545e6399e794a18b8760c3e02212.js",
+    "precache-manifest.20e73771d5b5b12dca969dd2f049d799.js": "/deployversion/precache-manifest.20e73771d5b5b12dca969dd2f049d799.js",
     "service-worker.js": "/deployversion/service-worker.js",
     "static/css/main.5be19874.chunk.css.map": "/deployversion/static/css/main.5be19874.chunk.css.map",
-    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/deployversion/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/js/2.baace475.chunk.js.LICENSE.txt": "/deployversion/static/js/2.baace475.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/deployversion/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/deployversion/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/deployversion/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -26,9 +26,9 @@
     "static/media/video-placeholder.jpg": "/deployversion/static/media/video-placeholder.a622fc5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0edb73e.js",
-    "static/js/2.27505fc1.chunk.js",
+    "static/js/runtime-main.5aaefd98.js",
+    "static/js/2.baace475.chunk.js",
     "static/css/main.5be19874.chunk.css",
-    "static/js/main.a50aa742.chunk.js"
+    "static/js/main.6c440b0b.chunk.js"
   ]
 }
