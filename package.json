@@ -1,5 +1,5 @@
 {
-  "name": "open-react-template",
+  "name": "deployversion",
   "version": "0.1.0",
   "homepage": "https://pv-create.github.io/deployversion",
   "private": true,
@@ -14,7 +14,7 @@
     "sass": "^1.49.7"
   },
   "repository": {
-    "url": "https://github.com/pv-create/deploy",
+    "url": "https://github.com/pv-create/deployversion",
     "type": "git"
   },
   "scripts": {
